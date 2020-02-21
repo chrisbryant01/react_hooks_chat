@@ -1,10 +1,18 @@
- 
-
-
-
 # React Hooks Chat 
 
-A simple prototype chat application built with React.js utilizing React Hooks.
-##
-### [Check out the demo](https://react-hooks-chat-app.netlify.com)
-  **Login username:** superhero[1-5], i.e., `superhero1`
+*A simple React.js chat/messaging app utilizing the CometChat SDK and React Hooks.*
+
+**[View Demo](https://react-hooks-chat-app.netlify.com)**
+
+**Username:**  superhero[1-5]
+ `superhero1` 
+ `superhero2` 
+ `etc...`
+
+
+
+
+
+
+
+
